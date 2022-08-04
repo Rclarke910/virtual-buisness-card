@@ -9,13 +9,13 @@ body {
 }
 
 .avatar {
-    width: 185px;
+    width: 200px;
     height: 230px;
     display: flex;
 }
 
 .card {
-    width: 400px;
+    width: 500px;
     margin: 0 auto;
     padding: 20px;
     display: flex;
